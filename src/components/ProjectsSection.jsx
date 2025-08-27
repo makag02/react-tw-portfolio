@@ -4,7 +4,7 @@ import {ArrowRight, ExternalLink, Github} from "lucide-react"
 const projects = [
   {
     id:1,
-    title: "Snapshop",
+    title: "SnapShop",
     description: "A simple image processing app using java",
     image:"/projects/snapshop.png",
     tags: ["Java"],
