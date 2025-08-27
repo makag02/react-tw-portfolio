@@ -9,7 +9,7 @@ const projects = [
     image:"/projects/snapshop.png",
     tags: ["Java"],
     demoURL: "#",
-    githubUrl: "#"
+    githubUrl: "https://github.com/makag02/School-Projects/tree/main/SnapShop"
   },
 ];
 
