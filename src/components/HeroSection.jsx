@@ -17,7 +17,7 @@ export const HeroSection = () => {
           </span>
       </h1>
       <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-        This is where my excerpt goes
+        I am a 4th year Computer Science major at The University of Washington seeking junior roles and/or internships.
         </p>
     
           <div className="pt-4 opacity-0 animate-fade-in-delay-4">
