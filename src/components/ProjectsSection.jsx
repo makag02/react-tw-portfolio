@@ -11,6 +11,15 @@ const projects = [
     demoURL: "#",
     githubUrl: "https://github.com/makag02/School-Projects/tree/main/SnapShop"
   },
+  {
+    id:2,
+    title: "Assignment Tracker",
+    description: "Assignment tracking REST API built with FastAPI, SQLAlchemy, and SQLite",
+    image:"/projects/snapshop.png",
+    tags: ["Python"],
+    demoURL: "#",
+    githubUrl: "https://github.com/makag02/Assignment-Tracker"
+  }
 ];
 
 export const ProjectsSection = () => {
