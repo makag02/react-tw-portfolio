@@ -2,10 +2,10 @@
 // import { cn } from "@/lib/utils";
 
 const skills = [
-  {name: "Java", courses: "asf", category: "frontend"},
-  {name: "C/C++", courses: 95, category: "frontend"},
-  {name: "Git", courses: 95, category: "frontend"},
-  {name: "Unix", courses: 95, category: "frontend"}
+  {name: "Java", courses: "Relevant Courses: Data Structures and Parallelism"},
+  {name: "C/C++", courses: "Relevant Courses: Systems Programming, Hardware/Software interface"},
+  {name: "Git", courses: "Relevant Courses: System and Software tools"},
+  {name: "Unix", courses: "Relevant Courses: Systems programming, System and Software tools"}
 ];
 
 export const SkillsSection = () => {
