@@ -5,7 +5,7 @@ const skills = [
   {name: "Java", courses: "Relevant Courses: Data Structures and Parallelism"},
   {name: "C/C++", courses: "Relevant Courses: Systems Programming, Hardware/Software interface"},
   {name: "Python", courses: "Relevant Courses: Computer Vision, Artificial Intelligence"},
-  {name: "Unix", courses: "Relevant Courses: Systems programming, System and Software tools"}
+  {name: "Unix", courses: "Relevant Courses: Systems programming, System and Software tools"},
   {name: "Database Design", courses: "Relevant Courses: Intro to Databases"}
 ];
 
