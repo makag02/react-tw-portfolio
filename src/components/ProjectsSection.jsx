@@ -14,8 +14,8 @@ const projects = [
   {
     id:2,
     title: "Assignment Tracker",
-    description: "Assignment tracking REST API built with FastAPI, SQLAlchemy, and SQLite",
-    image:"/projects/snapshop.png",
+    description: "Assignment tracking using REST API built with FastAPI, SQLAlchemy, and SQLite",
+    image:"/projects/course.png",
     tags: ["Python"],
     demoURL: "#",
     githubUrl: "https://github.com/makag02/Assignment-Tracker"
